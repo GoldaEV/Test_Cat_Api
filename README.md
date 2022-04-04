@@ -6,5 +6,6 @@
   - kotlin
   - navigation
   - retrofit
+  - paging3
   - room
   - dagger
